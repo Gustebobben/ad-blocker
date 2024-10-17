@@ -55,3 +55,4 @@
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||samsung-com.112.2o7.net^
+||browser.sentry-cdn.com^
