@@ -56,3 +56,4 @@
 ||books-analytics-events.apple.com^
 ||samsung-com.112.2o7.net^
 ||browser.sentry-cdn.com^
+95.216.163.36 test.com
